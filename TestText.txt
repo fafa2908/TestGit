@@ -1,1 +1,4 @@
 This is my first text on command line for TestGit
+hello
+test
+hello bye
